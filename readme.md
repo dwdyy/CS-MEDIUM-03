@@ -295,8 +295,8 @@ void print_file_info(const char *name, struct stat *statbuf) {
     printf("%s\n", timebuf);  
 }  
 ```
-
-![](image/image1)
+我们运行一下
+![图片](image/image1.png)
 
 比较一下可以看到myls没有处理隐藏文件夹
 
